@@ -1,0 +1,1 @@
+df = spark.read.table("samples.bakehouse.sales_customers")
